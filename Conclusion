@@ -1,0 +1,6 @@
+Conclusion of the project:
+Overall, both the base model and the model with K-best input features performed exceptionally well on the classification task, achieving perfect scores across all performance metrics. 
+This suggests that the selected features in the K-best model were highly informative and sufficient for accurate classification, without sacrificing model performance. 
+We could use all features or just one feature to accurately predict the edibility of the mushrooms. We use one feature because it's the simpler model. 
+Additionally, the base model, which likely included all available features, did not outperform the model with K-best features, indicating that feature selection effectively 
+identified the most relevant features for classification.
